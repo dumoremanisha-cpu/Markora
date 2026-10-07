@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Markora",
+    "description": "The extension's display name shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "extensionDescription": {
+    "message": "Privacyvriendelijke Markdown-viewer: geeft lokale bestanden, mappen en onbewerkte Markdown-URL's rechtstreeks in de browser weer. Er wordt niets geüpload.",
+    "description": "The extension's short description shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "commandToggleTheme": {
+    "message": "Kleurthema wisselen",
+    "description": "Label shown at chrome://extensions/shortcuts for the global theme-toggle keyboard shortcut."
+  }
+}

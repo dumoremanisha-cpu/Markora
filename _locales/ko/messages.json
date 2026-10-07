@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Markora",
+    "description": "The extension's display name shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "extensionDescription": {
+    "message": "개인정보를 우선하는 Markdown 뷰어: 로컬 파일, 폴더, 원시 Markdown URL을 클라이언트 측에서 렌더링합니다. 아무것도 업로드되지 않습니다.",
+    "description": "The extension's short description shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "commandToggleTheme": {
+    "message": "색상 테마 전환",
+    "description": "Label shown at chrome://extensions/shortcuts for the global theme-toggle keyboard shortcut."
+  }
+}

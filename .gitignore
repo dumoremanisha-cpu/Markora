@@ -1,0 +1,10 @@
+node_modules/
+dist/
+# Top-level copy of the React design-reference prototype (its own separate
+# project, own package.json/node_modules) — never part of Markora's build;
+# see src/frontend/ for Markora's own real vanilla-TS presentation code.
+frontend/
+spikes/**/mermaid.bundle.js
+playwright-report/
+test-results/
+*.log

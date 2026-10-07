@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Markora Spike 2 - Mermaid + strict CSP",
+  "version": "0.0.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}

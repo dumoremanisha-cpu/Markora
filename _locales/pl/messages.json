@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Markora",
+    "description": "The extension's display name shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "extensionDescription": {
+    "message": "Przeglądarka Markdown dbająca o prywatność: renderuje lokalne pliki, foldery i surowe adresy URL Markdown bezpośrednio w przeglądarce. Nic nie jest przesyłane.",
+    "description": "The extension's short description shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "commandToggleTheme": {
+    "message": "Przełącz motyw kolorów",
+    "description": "Label shown at chrome://extensions/shortcuts for the global theme-toggle keyboard shortcut."
+  }
+}

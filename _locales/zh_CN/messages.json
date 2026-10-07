@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Markora",
+    "description": "The extension's display name shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "extensionDescription": {
+    "message": "隐私优先的 Markdown 查看器：在客户端本地渲染本地文件、文件夹和原始 Markdown 网址，不上传任何内容。",
+    "description": "The extension's short description shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "commandToggleTheme": {
+    "message": "切换颜色主题",
+    "description": "Label shown at chrome://extensions/shortcuts for the global theme-toggle keyboard shortcut."
+  }
+}

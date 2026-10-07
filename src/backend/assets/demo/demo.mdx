@@ -1,0 +1,32 @@
+---
+title: Markora MDX Companion Sample
+---
+
+import Chart from './chart';
+export const meta = { views: 0 };
+
+# MDX Companion Sample
+
+This companion document exercises Markora's MDX safe-degradation path
+(ADR-0008). `import`/`export` statements above are removed entirely and
+never executed.
+
+Ordinary Markdown still works inside an `.mdx` file: **bold**, `code`, and
+[links](https://example.com).
+
+<Tabs>
+  <Tab>First tab content, kept as readable text.</Tab>
+  <Tab>Second tab content, kept as readable text.</Tab>
+</Tabs>
+
+<Callout type="warn" />
+
+A brace expression is never evaluated: `{2 + 2}` in code stays literal, and
+so does {2 + 2} outside code — it always renders as the four characters
+`{2 + 2}`, never `4`.
+
+{/* This MDX comment is removed entirely. */}
+
+A safe, lowercase HTML tag still works: <strong>manually bolded</strong>.
+
+An unsafe one is left for the sanitizer: <script>alert('unsafe')</script>

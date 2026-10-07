@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Markora Spike 4 - content-script path-glob matching",
+  "version": "0.0.0",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*.md"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}

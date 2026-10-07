@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Markora Spike 3 - File System Access API + IndexedDB round-trip",
+  "version": "0.0.0",
+  "background": {
+    "service_worker": "background.js"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Markora",
+    "description": "The extension's display name shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "extensionDescription": {
+    "message": "プライバシー重視の Markdown ビューア: ローカルファイル、フォルダ、生の Markdown URL をクライアント側でレンダリングします。何もアップロードされません。",
+    "description": "The extension's short description shown in chrome://extensions and the Chrome Web Store listing."
+  },
+  "commandToggleTheme": {
+    "message": "カラーテーマを切り替え",
+    "description": "Label shown at chrome://extensions/shortcuts for the global theme-toggle keyboard shortcut."
+  }
+}

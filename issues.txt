@@ -1,0 +1,1 @@
+1)When the page is scrolled down, the Table of Contents panel/bar also moves down along with the page. The active TOC item should remain synchronized with the page scroll position instead of the entire TOC bar moving with the document.

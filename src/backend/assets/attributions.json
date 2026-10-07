@@ -1,0 +1,74 @@
+[
+  {
+    "name": "@hpcc-js/wasm-graphviz",
+    "version": "1.29.0",
+    "license": "Apache-2.0",
+    "homepage": "https://hpcc-systems.github.io/hpcc-js-wasm/"
+  },
+  {
+    "name": "docx",
+    "version": "9.7.1",
+    "license": "MIT",
+    "homepage": "https://docx.js.org"
+  },
+  {
+    "name": "dompurify",
+    "version": "3.4.15",
+    "license": "(MPL-2.0 OR Apache-2.0)",
+    "homepage": "https://github.com/cure53/DOMPurify"
+  },
+  {
+    "name": "highlight.js",
+    "version": "11.12.0",
+    "license": "BSD-3-Clause",
+    "homepage": "https://highlightjs.org/"
+  },
+  {
+    "name": "js-yaml",
+    "version": "5.4.1",
+    "license": "MIT",
+    "homepage": "https://github.com/nodeca/js-yaml"
+  },
+  {
+    "name": "katex",
+    "version": "0.16.47",
+    "license": "MIT",
+    "homepage": "https://katex.org"
+  },
+  {
+    "name": "markdown-it",
+    "version": "15.0.1",
+    "license": "MIT",
+    "homepage": "https://github.com/markdown-it/markdown-it"
+  },
+  {
+    "name": "markdown-it-container",
+    "version": "4.0.0",
+    "license": "MIT",
+    "homepage": "https://github.com/markdown-it/markdown-it-container"
+  },
+  {
+    "name": "markdown-it-deflist",
+    "version": "4.0.0",
+    "license": "MIT",
+    "homepage": "https://github.com/markdown-it/markdown-it-deflist"
+  },
+  {
+    "name": "markdown-it-footnote",
+    "version": "4.0.0",
+    "license": "MIT",
+    "homepage": "https://github.com/markdown-it/markdown-it-footnote"
+  },
+  {
+    "name": "markdown-it-task-lists",
+    "version": "2.1.1",
+    "license": "ISC",
+    "homepage": "https://github.com/revin/markdown-it-task-lists#readme"
+  },
+  {
+    "name": "mermaid",
+    "version": "11.17.2",
+    "license": "MIT",
+    "homepage": "https://github.com/mermaid-js/mermaid"
+  }
+]

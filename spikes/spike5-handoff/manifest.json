@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Markora Spike 5 - content-script to viewer handoff",
+  "version": "0.0.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://127.0.0.1:*/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["viewer.html"],
+      "matches": ["http://127.0.0.1:*/*"]
+    }
+  ]
+}
